@@ -1,1 +1,1 @@
-Moved to my [talks repo](https://github.com/jnv/talks/tree/master/sbks-2018-jest).
+Moved to my [talks repo](https://github.com/jnv/talks/).
